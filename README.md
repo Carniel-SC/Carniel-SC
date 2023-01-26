@@ -1,6 +1,18 @@
+<html lang="pt-br">
+ <head>
+ </head>
+ <body>
+ <br>
+ <div>
+   <p>Olá pessoal, bem-vindo ao meu perfil do GitHub</p><br>
+  </div>
+ <div>
+  <label>Atualmente...</label><br><br>
+  <label>Estou trabalhando na T.I da prefeitura de Florianopolis como desenvolvedor</label><br>
+  <label>Migrei de curso para T.I na Unisul recentemente nesse ano de 2023</label>
+ </div>
 
-### Olá pessoal, bem-vindo ao meu perfil do GitHub
- No momento estou trabalhando na T.I da prefeitura de Florianopolis
+ 
  
  
 <div>
@@ -12,3 +24,4 @@
 
 
           
+</body>
