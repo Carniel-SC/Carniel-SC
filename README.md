@@ -10,7 +10,7 @@
   <label>Atualmente...</label><br><br>
   <label>Estou trabalhando na T.I da prefeitura de Florianopolis como desenvolvedor</label><br>
   <label>Migrei de curso para T.I na Unisul recentemente nesse ano de 2023</label>
- </div>
+ </div><br>
 
  
  
